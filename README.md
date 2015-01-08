@@ -16,10 +16,8 @@ Technologies used:
 - Twitter Bootstrap
 
 ##[Auto-complete feature]
-  ...
 ![alt tag](https://github.com/matthewly/Airport-Distance/blob/master/autocomplete.png)
 
 ##[Distance calculated and trip plotted on Google Map]
-  ...
-![alt tag](https://github.com/matthewly/Airport-Distance/blob/master/startingpage.png)
+![alt tag](https://github.com/matthewly/Airport-Distance/blob/master/result.png)
 
