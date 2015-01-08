@@ -3,6 +3,8 @@ Airport-Distance
 
 JavaScript web application to calculate the distance between two airports and to plot the trip on Google maps. Auto-completes airport names and features all airports internationally.
 
+Try it out at: http://mycitylife.web.engr.illinois.edu
+
 Powered by: 
 - Google Maps API: https://developers.google.com/maps/
 - SITA Airport API: https://www.developer.aero/Airport-API/API-Overview
